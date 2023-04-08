@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/DarkNeos/neos-doc',
+            href: 'https://github.com/DarkNeos/neos-ts',
             label: 'GitHub',
             position: 'right',
           },
