@@ -18,7 +18,7 @@ function HomepageHeader (): JSX.Element {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            开始阅读Neos文档
           </Link>
         </div>
       </div>

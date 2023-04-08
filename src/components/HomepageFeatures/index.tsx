@@ -13,32 +13,30 @@ interface FeatureItem {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '轻量便捷',
     Svg: MoutainSvg,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Neos运行在浏览器上，不用下载客户端，游玩便捷。
       </>
     )
   },
   {
-    title: 'Focus on What Matters',
+    title: '联机对战',
     Svg: TreeSvg,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Neos支持和ygo客户端联机对战，也可以和另一个Neos网页进行对战，
+        同时支持局域网联机。
       </>
     )
   },
   {
-    title: 'Powered by React',
+    title: '新卡快体验',
     Svg: ReactSvg,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        当srvpro后端加入了新的游戏王卡片后，Neos无需下载更新玩家即可体验到新卡的乐趣。
       </>
     )
   }
