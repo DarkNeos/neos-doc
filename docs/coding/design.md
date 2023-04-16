@@ -6,6 +6,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # 架构设计
+本章将会介绍Neos的整体架构设计。
 
 ![arch](../assets/neos-arch.svg)
 
